@@ -13,7 +13,7 @@
 
 [winform端](https://github.com/bszydxh/udp_turn_off)
 
-## 校园通-xytong(半成品，但能跑)
+## 校园通-xytong
 [android端](https://github.com/bszydxh/com.xytong)
 
 [springboot端](https://github.com/bszydxh/com.xytong-springboot)
