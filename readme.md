@@ -5,7 +5,10 @@
 
 ![bszydxh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bszydxh&show_icons=true&theme=graywhite)
 
-# 项目
+# Blog
+http://bszydxh.top
+
+# Projects
 ## 智能灯带系统-aurora
 [arduino端](https://github.com/bszydxh/smart_light_system)
 
