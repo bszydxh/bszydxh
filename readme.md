@@ -9,14 +9,14 @@
 http://bszydxh.top
 
 # Projects
-## 智能灯带系统-aurora
+## 智能灯带-aurora
 [arduino端](https://github.com/bszydxh/smart_light_system)
 
 [android端](https://github.com/bszydxh/top.bszydxh.light)
 
-[winform端](https://github.com/bszydxh/udp_turn_off)
+[win端](https://github.com/bszydxh/udp_turn_off)
 
 ## 校园通-xytong
 [android端](https://github.com/bszydxh/com.xytong)
 
-[springboot端](https://github.com/bszydxh/com.xytong-springboot)
+[springboot后端](https://github.com/bszydxh/com.xytong-springboot)
